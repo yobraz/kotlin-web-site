@@ -36,15 +36,15 @@ id="home">
                     <a href="https://kotlinlang.org/docs/mobile/getting-started.html" description="Sed condimentum feugiat sagittis">Get started with KMM in Android Studio</a>
                     <a href="https://kotlinlang.org/docs/mobile/kmm-plugin-releases.html" description="Sed condimentum feugiat sagittis">KMM plugin releases for Android Studio</a>
             </group>
-            <group type="cards">
-                <title>Ways to learn</title>
+            <group type="links" display="normal">
+                <link-collection>
+                    <title>Ways to learn</title>
                     <a href="https://play.kotlinlang.org/byExample/overview" description="Sed condimentum feugiat sagittis">Kotlin by example</a>
                     <a href="koans.md" description="Sed condimentum feugiat sagittis">Koans</a>
                     <a href="https://play.kotlinlang.org/hands-on/overview" description="Sed condimentum feugiat sagittis">Hands-on tutorials</a>
                     <a href="edu-tools-learner.md" description="Sed condimentum feugiat sagittis">EduTools in IntelliJ IDEA</a>
                     <a href="books.md" description="Sed condimentum feugiat sagittis">Books</a>
-            </group>
-            <group type="links" display="normal">
+                </link-collection>
                 <link-collection>
                     <title>Kotlin YouTube channel</title>
                     <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmxOJL0GSSZ1Vot4KL2Vwe7x" description="Kotlin 1.5.0">Kotlin in Spring Framework</a>
@@ -56,8 +56,6 @@ id="home">
                     <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmzT4cgLOGJYGnY6j0W2xoFA" description="Kotlin 1.5.0">Kotlin for educators</a>
                     <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmztiekWaNlCcjfxvNQbXViP" description="Kotlin 1.5.0">Kotlin Online Event 2020 playlist</a>
                 </link-collection>
-            </group>
-            <group type="links" display="normal">
                 <link-collection>
                     <title>Stay in touch and contribute</title>
                     <a href="contribute.md" description="Kotlin 1.5.0">Contribute to Kotlin</a>
