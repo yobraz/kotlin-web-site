@@ -35,6 +35,8 @@ id="home">
                 <title>Kotlin Multiplatform Mobile (KMM)</title>
                     <a href="https://kotlinlang.org/docs/mobile/getting-started.html" description="Sed condimentum feugiat sagittis">Get started with KMM in Android Studio</a>
                     <a href="https://kotlinlang.org/docs/mobile/kmm-plugin-releases.html" description="Sed condimentum feugiat sagittis">KMM plugin releases for Android Studio</a>
+                    <a href="https://www.youtube.com/playlist?list=PLlFc5cFwUnmy_oVc9YQzjasSNoAk4hk_C" description="On Kotlin YouTube channel">Kotlin Multiplatform Multiverse</a>
+
             </group>
             <group type="links" display="normal">
                 <link-collection>
