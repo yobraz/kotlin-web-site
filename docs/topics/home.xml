@@ -26,9 +26,9 @@ id="home">
         </main-group>
         <highlighted-group>
             <title>What's new in Kotlin</title>
-            <a href="whatsnew15.md" description="Kotlin 1.5.0">What's New in Kotlin</a>
-            <a href="whatsnew-plugin-20211.md" description="Kotlin IntelliJ plugin 2021.1">What's New in Kotlin plugin</a>
-            <a href="roadmap.md" description="Future development plans">Kotlin public roadmap</a>
+            <a href="whatsnew15.md" description="Check out the latest features of the language and tooling for supported platforms">What's New in Kotlin 1.5.20</a>
+            <a href="whatsnew-plugin-20211.md" description="Discover the new IDE capabilities for working with Kotlin projects">What's New in Kotlin IntelliJ plugin 2021.1</a>
+            <a href="roadmap.md" description="Get an overview of the future development plans">Kotlin public roadmap</a>
         </highlighted-group>
         <custom-groups>
             <group type="cards">
