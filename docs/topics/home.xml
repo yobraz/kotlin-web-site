@@ -12,17 +12,17 @@ id="home">
         </description>
         <tip-group>
             <a href="getting-started.md"
-            description="Create your first Kotlin project for any supported platform" type="start">Get started with Kotlin</a>
+            description="Create your first Kotlin project for a platfrom of your choice" type="start">Get started with Kotlin</a>
             <a href="https://play.kotlinlang.org/" description="Write, edit, run, and share Kotlin code right in the browser" type="install">Playground</a>
         </tip-group>
         <main-group>
             <title>Kotlin basics</title>
             <a href="basic-syntax.md" description="Take a quick tour of Kotlin syntax: keywords, operators, program structure">Basic syntax</a>
             <a href="basic-types.md" description="Get familiar with Kotlin's type system: numbers, strings, arrays, and other built-in types">Basic types</a>
-            <a href="control-flow.md" description="Learn to control the program execution with conditional expressions and loops: if, when, for, while">Control flow</a>
+            <a href="control-flow.md" description="Control the program execution with conditions and loops: if, when, for, while">Control flow</a>
             <a href="null-safety.md" description="Discover Kotlin ways of handling null values: nullable and non-null types, elvis operator, safe calls and casts ">Null safety</a>
             <a href="coroutines-overview.md" description="Learn how to deal with concurrency: coroutines, flows, channels">Coroutines</a>
-            <a href="coding-conventions.md" description="Learn how to format Kotlin code">Coding conventions</a>
+            <a href="coding-conventions.md" description="Check out recommendations on the code organization, formatting, and naming">Coding conventions</a>
         </main-group>
         <highlighted-group>
             <title>What's new in Kotlin</title>
